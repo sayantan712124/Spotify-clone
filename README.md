@@ -9,8 +9,8 @@
 - HTML
 - CSS
 - JavaScript
+- Typescript 
 - React (Learning)
-- Node.js (Learning)
 - Git & GitHub
 
 ## 📂 Projects
